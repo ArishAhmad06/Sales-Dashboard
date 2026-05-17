@@ -51,12 +51,12 @@ It provides business insights through interactive charts, KPI cards, and filters
 ```text
 Sales-Performance-Dashboard/
 │
-├── Assets/
+├── assets/
 │   ├── dashboard-demo.mp4
 │   ├── dashboard-preview.png
 │   ├── SalesDashboard.pdf
 │
-├── IMG/
+├── img/
 │   ├── sales-card.png
 │   ├── profit-card.png
 │   ├── quantity-card.png
