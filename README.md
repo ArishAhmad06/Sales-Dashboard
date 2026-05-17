@@ -56,7 +56,7 @@ Sales-Performance-Dashboard/
 │   ├── dashboard-preview.png
 │   ├── SalesDashboard.pdf
 │
-├── PNG/
+├── IMG/
 │   ├── sales-card.png
 │   ├── profit-card.png
 │   ├── quantity-card.png
